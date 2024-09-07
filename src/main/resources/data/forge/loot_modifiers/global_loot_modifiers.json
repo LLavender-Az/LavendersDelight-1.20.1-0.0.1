@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "entries": [
+    "lavsdelight:add_chance_lemon_sapling",
+    "lavsdelight:add_chance_glowing",
+    "lavsdelight:add_loot_abandoned_mineshaft",
+    "lavsdelight:add_loot_plains_village_house",
+    "lavsdelight:add_loot_taiga_village_house",
+    "lavsdelight:add_loot_spawn_bonus_chest",
+    "lavsdelight:add_loot_village_tannery"
+  ]
+}

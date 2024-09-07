@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "lavsdelight:block/halite_pillar",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "lavsdelight:block/halite_pillar",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "lavsdelight:block/halite_pillar"
+    },
+    "facing=west": {
+      "model": "lavsdelight:block/halite_pillar",
+      "y": 90
+    }
+  }
+}

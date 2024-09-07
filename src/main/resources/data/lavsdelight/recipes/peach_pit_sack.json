@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "-": {
+      "item": "lavsdelight:peach_pit"
+    }
+  },
+  "pattern": [
+    "---",
+    "---",
+    "---"
+  ],
+  "result": {
+    "item": "lavsdelight:peach_pit_sack"
+  },
+  "show_notification": true
+}

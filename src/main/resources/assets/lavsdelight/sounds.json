@@ -1,0 +1,10 @@
+{
+  "glowing_audio": {
+    "sounds": [
+      {
+        "name": "lavsdelight:glowing_music_disc",
+        "stream": true
+      }
+    ]
+  }
+}

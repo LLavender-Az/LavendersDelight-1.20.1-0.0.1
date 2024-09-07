@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "lavsdelight:lemon_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "lavsdelight:lemon_planks"
+  }
+}

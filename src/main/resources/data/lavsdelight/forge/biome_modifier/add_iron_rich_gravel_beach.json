@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_beach",
+  "features": "lavsdelight:iron_rich_gravel_beach",
+  "step": "underground_ores"
+}

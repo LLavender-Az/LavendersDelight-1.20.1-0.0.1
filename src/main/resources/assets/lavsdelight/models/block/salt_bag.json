@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "down": "lavsdelight:block/sack_bottom",
+    "east": "lavsdelight:block/sack_side",
+    "north": "lavsdelight:block/sack_side_tied",
+    "particle": "lavsdelight:block/salt_bag_top",
+    "south": "lavsdelight:block/sack_side_tied",
+    "up": "lavsdelight:block/salt_bag_top",
+    "west": "lavsdelight:block/sack_side"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_poppy_seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "lavsdelight:poppy_seeds"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lavsdelight:poppy_seed_muffin"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_poppy_seeds",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lavsdelight:poppy_seed_muffin"
+    ]
+  },
+  "sends_telemetry_event": false
+}

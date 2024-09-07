@@ -1,0 +1,7 @@
+{
+  "parent": "lavsdelight:block/crop_cross",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cross": "lavsdelight:block/mint_stage6"
+  }
+}

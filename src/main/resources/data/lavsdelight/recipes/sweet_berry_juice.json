@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berry"
+    },
+    {
+      "item": "minecraft:sweet_berry"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sweet_berry"
+    },
+    {
+      "item": "minecraft:sweet_berry"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "lavsdelight:sweet_berry_juice"
+  }
+}

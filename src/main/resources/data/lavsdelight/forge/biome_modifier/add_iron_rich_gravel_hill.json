@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_hill",
+  "features": "lavsdelight:iron_rich_gravel_hill",
+  "step": "underground_ores"
+}

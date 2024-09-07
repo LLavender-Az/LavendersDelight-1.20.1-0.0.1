@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "lavsdelight:sunflower_pouch"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "lavsdelight:sunflower_seeds"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "lavsdelight:block/lemon_leaves",
+    "side": "lavsdelight:block/blossoming_lemon_leaves"
+  }
+}

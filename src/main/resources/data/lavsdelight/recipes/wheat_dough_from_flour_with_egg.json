@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "item": "lavsdelight:wheat_flour"
+    },
+    {
+      "item": "lavsdelight:wheat_flour"
+    },
+    {
+      "item": "lavsdelight:wheat_flour"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "farmersdelight:wheat_dough"
+  }
+}

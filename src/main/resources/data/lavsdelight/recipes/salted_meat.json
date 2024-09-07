@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "tag": "lavsdelight:meats"
+    },
+    {
+      "item": "lavsdelight:salt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "lavsdelight:salted_meat"
+  }
+}

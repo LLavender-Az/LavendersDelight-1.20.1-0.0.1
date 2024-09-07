@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "cookingtime": 900,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "lavsdelight:resin_saturated_tree_bark"
+  },
+  "result": "lavsdelight:pine_resin"
+}

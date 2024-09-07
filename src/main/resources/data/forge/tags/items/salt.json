@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:salt/salt",
+    "#forge:alpine_salt/alpine_salt"
+  ]
+}

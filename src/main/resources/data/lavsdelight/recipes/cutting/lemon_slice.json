@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "lavsdelight:lemon"
+    }
+  ],
+  "result": [
+    {
+      "count": 4,
+      "item": "lavsdelight:lemon_slice"
+    },
+    {
+      "count": 2,
+      "item": "lavsdelight:lemon_seed"
+    },
+    {
+      "count": 1,
+      "chance": 0.50,
+      "item": "lavsdelight:lemon_seed"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

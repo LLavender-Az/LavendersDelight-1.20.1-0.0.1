@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "lavsdelight:block/cheese_wheel",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "lavsdelight:block/cheese_wheel",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "lavsdelight:block/cheese_wheel"
+    },
+    "facing=west": {
+      "model": "lavsdelight:block/cheese_wheel",
+      "y": 90
+    }
+  }
+}

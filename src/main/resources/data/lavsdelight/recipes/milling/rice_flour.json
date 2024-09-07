@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "farmersdelight:rice"
+    }
+  ],
+  "results": [
+    {
+      "item": "lavsdelight:rice_flour",
+      "count": 3
+    },
+    {
+      "item": "lavsdelight:rice_flour",
+      "chance": 0.75
+    }
+  ],
+  "processingTime": 150
+}

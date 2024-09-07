@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lavsdelight:tattered_leather"
+    },
+    {
+      "item": "lavsdelight:tattered_leather"
+    },
+    {
+      "item": "lavsdelight:tattered_leather"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:leather"
+  }
+}

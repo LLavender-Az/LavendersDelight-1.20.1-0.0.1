@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:sunflower"
+    }
+  ],
+  "result": [
+    {
+      "count": 3,
+      "item": "lavsdelight:sunflower_seeds"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "count": 2,
+      "chance": 0.5,
+      "item": "lavsdelight:sunflower_seeds"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

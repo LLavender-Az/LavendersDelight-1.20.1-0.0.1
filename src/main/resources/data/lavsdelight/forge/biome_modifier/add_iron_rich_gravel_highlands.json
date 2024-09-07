@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:has_structure/village_taiga",
+  "features": "lavsdelight:iron_rich_gravel_highlands",
+  "step": "underground_ores"
+}

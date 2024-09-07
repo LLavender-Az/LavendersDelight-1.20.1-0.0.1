@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "lavsdelight:block/lemon_seed",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "lavsdelight:block/lemon_seed",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "lavsdelight:block/lemon_seed"
+    },
+    "facing=west": {
+      "model": "lavsdelight:block/lemon_seed",
+      "y": 90
+    }
+  }
+}

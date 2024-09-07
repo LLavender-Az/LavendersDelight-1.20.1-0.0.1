@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_white_blossom": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "lavsdelight:white_blossom"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lavsdelight:dye_white_from_white_blossom"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_white_blossom",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lavsdelight:dye_white_from_white_blossom"
+    ]
+  },
+  "sends_telemetry_event": false
+}

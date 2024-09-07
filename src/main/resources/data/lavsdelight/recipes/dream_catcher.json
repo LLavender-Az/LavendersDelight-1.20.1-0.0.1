@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "o": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "SoS",
+    "ooo",
+    "SoS"
+  ],
+  "result": {
+    "item": "lavsdelight:dream_catcher"
+  },
+  "show_notification": false
+}

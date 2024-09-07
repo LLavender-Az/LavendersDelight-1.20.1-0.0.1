@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "lavsdelight:block/dream_catcher",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "lavsdelight:block/dream_catcher",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "lavsdelight:block/dream_catcher"
+    },
+    "facing=west": {
+      "model": "lavsdelight:block/dream_catcher",
+      "y": 90
+    }
+  }
+}

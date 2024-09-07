@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "lavsdelight:item/geode",
+		"particle": "lavsdelight:item/geode"
+	},
+	"elements": [
+		{
+			"from": [4.5, 0, 4.5],
+			"to": [11.5, 7, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [5, 4, 12, 11], "texture": "#0"},
+				"east": {"uv": [5, 4, 12, 11], "texture": "#0"},
+				"south": {"uv": [5, 4, 12, 11], "texture": "#0"},
+				"west": {"uv": [5, 4, 12, 11], "texture": "#0"},
+				"up": {"uv": [5, 4, 12, 11], "texture": "#0"},
+				"down": {"uv": [5, 4, 12, 11], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "VoxelShapes",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

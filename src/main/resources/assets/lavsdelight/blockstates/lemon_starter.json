@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "lavsdelight:block/lemon_starter",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "lavsdelight:block/lemon_starter",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "lavsdelight:block/lemon_starter"
+    },
+    "facing=west": {
+      "model": "lavsdelight:block/lemon_starter",
+      "y": 90
+    }
+  }
+}

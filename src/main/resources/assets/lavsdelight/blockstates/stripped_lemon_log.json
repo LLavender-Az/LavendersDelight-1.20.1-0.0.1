@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "lavsdelight:block/stripped_lemon_log",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "lavsdelight:block/stripped_lemon_log",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "lavsdelight:block/stripped_lemon_log"
+    },
+    "facing=west": {
+      "model": "lavsdelight:block/stripped_lemon_log",
+      "y": 90
+    }
+  }
+}

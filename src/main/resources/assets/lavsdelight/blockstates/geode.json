@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "lavsdelight:block/geode",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "lavsdelight:block/geode",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "lavsdelight:block/geode"
+    },
+    "facing=west": {
+      "model": "lavsdelight:block/geode",
+      "y": 90
+    }
+  }
+}

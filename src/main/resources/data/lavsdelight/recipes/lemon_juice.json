@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "o": {
+      "item": "lavsdelight:lemon_slice"
+    },
+    "t": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    "ooo",
+    "oto",
+    "ooo"
+  ],
+  "result": {
+    "count": 1,
+    "item": "lavsdelight:lemon_juice"
+  },
+  "show_notification": true
+}

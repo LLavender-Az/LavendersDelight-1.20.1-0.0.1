@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 600,
+  "experience": 0.95,
+  "ingredients": [
+    {
+      "tag": "forge:milk/milk"
+    },
+    {
+      "tag": "forge:milk/milk"
+    },
+    {
+      "tag": "forge:salt/salt"
+    },
+    {
+      "tag": "forge:milk/milk"
+    },
+    {
+      "tag": "forge:milk/milk"
+    },
+    {
+      "tag": "forge:salt/salt"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "lavsdelight:cheese_wheel"
+  }
+}
