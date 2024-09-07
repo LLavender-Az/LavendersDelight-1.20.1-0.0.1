@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "lavsdelight:block/cobblestone_bricks"
+      "model": "lavsdelight:block/cobblestone_tiles"
     }
   }
 }
